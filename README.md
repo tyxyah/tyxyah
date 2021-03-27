@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tyxyah
-- 👀 I’m interested in ...
+- 👀 I’m interested in a project that can help me to improve my skill
 - 🌱 I’m currently learning Software Engineering in UPM
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by email ; aisyahrazali34@gmail.com
